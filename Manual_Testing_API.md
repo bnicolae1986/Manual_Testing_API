@@ -67,7 +67,7 @@ Request description: Returns a list of books, filtered by parameters
     type: fiction or non-fiction
     limit: a number between 1 and 20
 
-Test types / techniques used: Functional Testing, Input Validation Testing, Usability Testing
+Test types / techniques used: Functional Testing, Boundary Testing, Input Validation Testing, Usability Testing
 
 Response status code: Status 200 "OK"
 
@@ -87,11 +87,15 @@ HTTP method for request: GET
 
 Request description: Retrieve detailed information about a book.
 
-Test types / techniques used: Functional Testing, Smoke Testing, Regression Testing
+Test types / techniques used: Functional Testing, Boundary Testing, Input Validation Testing, Integration Testing
 
 Response status code: Status 200 "OK"
 
 Below you can find a picture of the API request from Postman:
+
+![book id1](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/80f48eca-02e0-466f-8da9-d75bb8dc5566)
+
+![book id2](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/9f9a9f35-c512-4c4d-b76f-2032eb5850b7)
 
 
 
