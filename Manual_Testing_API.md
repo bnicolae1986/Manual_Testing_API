@@ -28,37 +28,26 @@ Below you can find a picture of the API request from Postman:
 
 - JavaScript Tests:
 
- Inserati aici o poza cu testele in java script pe care le-ati definit impreuna cu rezultatele executiei acestora
-    **Nume Request 2**
+Inserati aici o poza cu testele in java script pe care le-ati definit impreuna cu rezultatele executiei acestora
+ 
+**Nume Request 2**
 
-   HTTP method for request: Inserati aici metoda HTTP a requestului
-    Request description: Inserati o scurta descriere a requestului, conform documentatiei de API
-    Test types / techniques used: Inserati tipurile si tehnicile de testare folosite pentru acest request
-    Response status code: Inserati aici status code-ul pe care l-ati obtinut in urma executiei requestului
+HTTP method for request: Inserati aici metoda HTTP a requestului
+Request description: Inserati o scurta descriere a requestului, conform documentatiei de API
+Test types / techniques used: Inserati tipurile si tehnicile de testare folosite pentru acest request
+Response status code: Inserati aici status code-ul pe care l-ati obtinut in urma executiei requestului
 
-   Below you can find a picture of the API request from Postman:
+Below you can find a picture of the API request from Postman:
 
-   Inserati aici o poza cu requestul din postman in care sa se observe request method, endpoint, request body si response body
+Inserati aici o poza cu requestul din postman in care sa se observe request method, endpoint, request body si response body
 
-   JavaScript Tests:
+JavaScript Tests:
 
-   Inserati aici o poza cu testele in java script pe care le-ati definit impreuna cu rezultatele executiei acestora
+Inserati aici o poza cu testele in java script pe care le-ati definit impreuna cu rezultatele executiei acestora
 
    
-   **Nume Request n**
 
-   HTTP method for request: Inserati aici metoda HTTP a requestului
-    Request description: Inserati o scurta descriere a requestului, conform documentatiei de API
-    Test types / techniques used: Inserati tipurile si tehnicile de testare folosite pentru acest request
-    Response status code: Inserati aici status code-ul pe care l-ati obtinut in urma executiei requestului
-
-   Below you can find a picture of the API request from Postman:
-
-   Inserati aici o poza cu requestul din postman in care sa se observe request method, endpoint, request body si response body
-
-   JavaScript Tests:
-
-   Inserati aici o poza cu testele in java script pe care le-ati definit impreuna cu rezultatele executiei acestora
+ 
 
 Execution report for the created API collection
 
