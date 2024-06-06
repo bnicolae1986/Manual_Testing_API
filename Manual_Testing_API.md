@@ -102,6 +102,25 @@ JavaScript Tests:
 ![tests bookbyid](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/21680cfe-0d33-4e43-bdd1-ce254a9cf216)
 
 
+### 5. Get all orders
+
+HTTP method for request: GET
+
+Request description: Allows you to view all orders. Requires authentication.
+
+Test types / techniques used: Functional Testing, Boundary Testing, Input Validation Testing, Integration Testing
+
+Response status code: Status 200 "OK"
+
+Below you can find a picture of the API request from Postman:
+
+![get allorders](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/f84cdc7f-8055-4118-88cd-6dac2441de41)
+
+JavaScript Tests:
+
+![test orederid](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/7a2707a4-5fe4-45aa-b161-758314f26657)
+
+
 ## Execution report for the created API collection
 
 Below you can find the execution report that was generated through the Postman collection runner.
