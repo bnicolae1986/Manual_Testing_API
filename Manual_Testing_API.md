@@ -12,16 +12,18 @@ Collection link: Inserati aici linkul catre colectia de API
 
 - GET /status
 
-   HTTP method for request: Inserati aici metoda HTTP a requestului
-    Request description: Inserati o scurta descriere a requestului, conform documentatiei de API
-    Test types / techniques used: Inserati tipurile si tehnicile de testare folosite pentru acest request
-    Response status code: Inserati aici status code-ul pe care l-ati obtinut in urma executiei requestului
+HTTP method for request: GET
+Request description: Returns the status of the API
+Test types / techniques used: Functional Testing, Smoke Testing, Regression Testing
+Response status code: Status 200 "OK"
 
- Below you can find a picture of the API request from Postman:
+Below you can find a picture of the API request from Postman:
 
- Inserati aici o poza cu requestul din postman in care sa se observe request method, endpoint, request body si response body
+ ![get status](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/9df01ec7-6fea-446e-81bc-54b4b1904559)
 
-   JavaScript Tests:
+ ![variables environment](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/7d2ef788-8bc2-4cd4-97a1-6a3069bbf62c)
+
+JavaScript Tests:
 
  Inserati aici o poza cu testele in java script pe care le-ati definit impreuna cu rezultatele executiei acestora
     **Nume Request 2**
