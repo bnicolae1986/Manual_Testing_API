@@ -50,7 +50,7 @@ Inserati aici o poza cu testele in java script pe care le-ati definit impreuna c
 
  
 
-Execution report for the created API collection
+## **Execution report for the created API collection**
 
 Below you can find the execution report that was generated through the Postman collection runner.
 
@@ -59,11 +59,13 @@ Inserati aici o poza cu raportul de executie din Postman
 The collection was also run through newman directly from the terminal, and the results can be found below:
 
 Inserati aici o poza cu raportul de executie din Newman
-Defects found
+
+## **Defects found**
 
 The following issues were identified while running the postman tests:
 
 **Inserati aici fie un fisier pdf care sa contina raportarea tuturor bug-urilor, fie le descrieti direct in git Bug-urile trebuie sa contina titlu, preconditii, pasi de executie, rezultate asteptate si rezultate actuale. Optional, bug-urile pot fi raportate in jira, si apoi puteti pune poze direct din jira
-Conclusions
+
+## **Conclusions**
 
 Inserati aici concluziile pe care le-ati obtinut in urma executarii testelor si introduceti informatii cum ar fi cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop au fost acoperite, daca exista vreo functionalitate pe care nu ai apucat sa o testezi, daca bug-urile gasite impacteaza lansarea produsului in productie sau se pot fixa si ulterior, daca ai identificat riscuri de produs care trebuie mitigate, daca e vreo reecomandare pe care vrei sa o faci pentru lansare, daca sunt ceva lessons learned de care trebuie sa se tina cont la proiectele viitoare etc
