@@ -54,8 +54,22 @@ JavaScript Tests:
 ![teste books2](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/2c23eb83-6e6a-456a-9b88-707c698d7eda)
 
 
+### List of books with parameters
 
+HTTP method for request: GET
 
+Request description: Returns a list of books, filtered by parameters 
+
+    Optional query parameters:
+
+    type: fiction or non-fiction
+    limit: a number between 1 and 20
+
+Test types / techniques used: Functional Testing, Input Validation Testing, Usability Testing
+
+Response status code: Status 200 "OK"
+
+Below you can find a picture of the API request from Postman:
  
 
 ## Execution report for the created API collection
