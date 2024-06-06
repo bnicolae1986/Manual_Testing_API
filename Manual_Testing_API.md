@@ -216,27 +216,23 @@ JavaScript Tests:
 ![test patch](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/1e4d05e5-d33f-4f59-af15-e7145ee2a9ec)
 
 
-
-
-### 10. DELETE
+### 10. Delete an order
 
 HTTP method for request: DELETE
 
-Request description: Retrieve detailed information about a book.
+Request description: Delete an existing order. Requires authentication. The request body needs to be empty.
 
-Test types / techniques used: Functional Testing, Boundary Testing, Input Validation Testing, Integration Testing
+Test types / techniques used: Functional Testing, Boundary Testing, Input Validation Testing, Regression Testing.
 
-Response status code: Status 200 "OK"
+Response status code: Status 204 "No Content"
 
 Below you can find a picture of the API request from Postman:
 
-
+![delete body](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/db2ba0da-de66-47fb-9bc5-d41210409172)
 
 JavaScript Tests:
 
-
-
-
+![teste delete](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/25a40ee1-bb36-4dc4-9043-57eebd4c1ccf)
 
 
 
