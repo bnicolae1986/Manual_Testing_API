@@ -10,7 +10,7 @@ Collection link: Inserati aici linkul catre colectia de API
 
 **Tests performed**
 
-Nume Request 1**
+- GET /status
 
    HTTP method for request: Inserati aici metoda HTTP a requestului
     Request description: Inserati o scurta descriere a requestului, conform documentatiei de API
