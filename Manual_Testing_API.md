@@ -34,8 +34,11 @@ Below you can find a picture of the API request from Postman:
 ### 2. List of books
 
 HTTP method for request: GET
+
 Request description: Returns a list of books
+
 Test types / techniques used: Functional Testing, Smoke Testing, Regression Testing
+
 Response status code: Status 200 "OK"
 
 Below you can find a picture of the API request from Postman:
