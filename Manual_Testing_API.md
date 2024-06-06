@@ -121,6 +121,22 @@ JavaScript Tests:
 ![test orederid](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/7a2707a4-5fe4-45aa-b161-758314f26657)
 
 
+### 6. Get an order by ID.
+
+HTTP method for request: GET
+
+Request description: Allows you to view an order, by submitting the order ID
+
+Test types / techniques used: Functional Testing, Boundary Testing, Input Validation Testing, Integration Testing
+
+Response status code: Status 200 "OK"
+
+JavaScript Tests:
+
+![test orderbyid](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/1633eda5-86f8-46a7-8af9-13685fd37b7f)
+
+
+
 ## Execution report for the created API collection
 
 Below you can find the execution report that was generated through the Postman collection runner.
