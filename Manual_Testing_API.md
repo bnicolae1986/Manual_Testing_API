@@ -75,6 +75,8 @@ Below you can find a picture of the API request from Postman:
 
 JavaScript Tests:
 
+![body params](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/8a61bf34-38f8-4960-b24f-738b33f1d279)
+
 ![teste params](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/679b6b3e-1fdb-4f15-90c8-289fe3fba175)
 
 
