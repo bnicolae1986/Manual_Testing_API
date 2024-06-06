@@ -1,13 +1,14 @@
-API Testing Project for **Inserati aici numele aplicatiei pe care o testati**
+API Testing Project for **Simple Books API**
 
 The scope of this project is to use all API knowledge gained throught the Software Testing course and apply them in practice, using a live application.
 
-Application under test: Inserati aici numele aplicatiei pe care o testati
+Application under test: Simple Books
 
-Tools used: Postman, Newman
+Tools used: Postman
 
 Collection link: Inserati aici linkul catre colectia de API
-Tests performed
+
+**Tests performed**
 
 Nume Request 1**
 
