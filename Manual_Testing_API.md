@@ -49,9 +49,12 @@ Below you can find a picture of the API request from Postman:
 
 JavaScript Tests:
 
-Inserati aici o poza cu testele in java script pe care le-ati definit impreuna cu rezultatele executiei acestora
+![teste books](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/9d661281-0243-4632-8ef0-8fe6e9d409f7)
 
-   
+![teste books2](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/2c23eb83-6e6a-456a-9b88-707c698d7eda)
+
+
+
 
  
 
