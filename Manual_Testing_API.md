@@ -28,7 +28,8 @@ Below you can find a picture of the API request from Postman:
 
 - JavaScript Tests:
 
-![teste get](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/ab56bd14-1d35-450e-9f9a-b65b5db72446)
+
+![get status2](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/c2eecc20-7efe-48c9-a548-04804fb4ac07)
 
  
 ### 2. List of books
