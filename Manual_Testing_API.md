@@ -193,6 +193,47 @@ JavaScript Tests:
 
 ![teste post orders](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/c1ea2f04-6b68-4cc1-8d56-ff0b9d939537)
 
+### 9. Update an order
+
+HTTP method for request: PATCH
+
+Request description: Update an existing order. Requires authentication.
+
+The request body needs to be in JSON format and allows you to update the following properties:
+
+    customerName - String
+
+Test types / techniques used: Functional Testing, Input Validation Testing, Performance Testing, Usability Testing, Regression Testing.
+
+Response status code: Status 204 "No cCntent"
+
+Below you can find a picture of the API request from Postman:
+
+![body patch](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/66661c2a-624c-481b-8b65-d8b0b39386fa)
+
+JavaScript Tests:
+
+![test patch](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/1e4d05e5-d33f-4f59-af15-e7145ee2a9ec)
+
+
+
+
+### 10. DELETE
+
+HTTP method for request: DELETE
+
+Request description: Retrieve detailed information about a book.
+
+Test types / techniques used: Functional Testing, Boundary Testing, Input Validation Testing, Integration Testing
+
+Response status code: Status 200 "OK"
+
+Below you can find a picture of the API request from Postman:
+
+
+
+JavaScript Tests:
+
 
 
 
