@@ -31,7 +31,7 @@ Below you can find a picture of the API request from Postman:
 ![teste get](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/ab56bd14-1d35-450e-9f9a-b65b5db72446)
 
  
-**Nume Request 2**
+### **GET /books**
 
 HTTP method for request: Inserati aici metoda HTTP a requestului
 Request description: Inserati o scurta descriere a requestului, conform documentatiei de API
