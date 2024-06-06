@@ -28,7 +28,8 @@ Below you can find a picture of the API request from Postman:
 
 - JavaScript Tests:
 
-Inserati aici o poza cu testele in java script pe care le-ati definit impreuna cu rezultatele executiei acestora
+![teste get](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/ab56bd14-1d35-450e-9f9a-b65b5db72446)
+
  
 **Nume Request 2**
 
