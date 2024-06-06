@@ -97,6 +97,9 @@ Below you can find a picture of the API request from Postman:
 
 ![book id2](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/9f9a9f35-c512-4c4d-b76f-2032eb5850b7)
 
+JavaScript Tests:
+
+![tests bookbyid](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/21680cfe-0d33-4e43-bdd1-ce254a9cf216)
 
 
 ## Execution report for the created API collection
