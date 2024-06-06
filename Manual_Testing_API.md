@@ -4,6 +4,8 @@ The scope of this project is to use all API knowledge gained throught the Softwa
 
 Application under test: Simple Books
 
+The API is available at https://simple-books-api.glitch.me
+
 Tools used: Postman
 
 Collection link: Inserati aici linkul catre colectia de API
