@@ -79,6 +79,19 @@ JavaScript Tests:
 
 ![teste params](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/679b6b3e-1fdb-4f15-90c8-289fe3fba175)
 
+### 4. Get a single book
+
+HTTP method for request: GET
+
+Request description: Retrieve detailed information about a book.
+
+Test types / techniques used: Functional Testing, Smoke Testing, Regression Testing
+
+Response status code: Status 200 "OK"
+
+Below you can find a picture of the API request from Postman:
+
+
 
 ## Execution report for the created API collection
 
