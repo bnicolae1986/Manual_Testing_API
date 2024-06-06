@@ -13,8 +13,11 @@ Collection link: Inserati aici linkul catre colectia de API
 - GET /status
 
 HTTP method for request: GET
+
 Request description: Returns the status of the API
+
 Test types / techniques used: Functional Testing, Smoke Testing, Regression Testing
+
 Response status code: Status 200 "OK"
 
 Below you can find a picture of the API request from Postman:
