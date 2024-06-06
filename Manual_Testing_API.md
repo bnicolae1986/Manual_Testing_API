@@ -249,7 +249,7 @@ Below you can find the execution report that was generated through the Postman c
 
 ## Defects found
 
-There were no defects found
+There were no defects found.
 
 ## Conclusions
 
