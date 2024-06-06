@@ -158,6 +158,7 @@ Below you can find a picture of the API request from Postman:
 
 JavaScript Tests:
 
+![teste post orders](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/c1ea2f04-6b68-4cc1-8d56-ff0b9d939537)
 
 
 
