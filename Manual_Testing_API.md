@@ -135,7 +135,40 @@ JavaScript Tests:
 
 ![test orderbyid](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/1633eda5-86f8-46a7-8af9-13685fd37b7f)
 
-### 7. Submit an order 
+### 7. API Authentication
+
+TTP method for request: POST
+
+Request description: To submit or view an order, you need to register your API client.
+
+Test types / techniques used: Functional Testing, Boundary Testing, Input Validation Testing, Integration Testing
+
+Response status code: Status 201 "Created"
+
+The request body needs to be in JSON format and include the following properties:
+
+    clientName - String
+    clientEmail - String
+
+The response body will contain the access token. The access token is valid for 7 days.
+
+Possible errors: Status code 409 - "API client already registered." Try changing the values for clientEmail and clientName to something else.
+
+Below you can find a picture of the API request from Postman:
+
+![post token](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/e80242cd-ef58-4362-89f6-6a6208b0599b)
+
+
+Pre-request:
+
+![token pre-req](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/0f7b4f71-dc81-4f5e-87f7-3949cefbb981)
+
+JavaScript Tests:
+
+![teste token](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/4565d22b-2215-45f6-a502-b9feb0807092)
+
+
+### 8. Submit an order 
 
 HTTP method for request: POST
 
@@ -150,7 +183,7 @@ The response body will contain the order Id.
 
 Test types / techniques used: Functional Testing, Boundary Testing, Integration Testing, Regression Testing, Performance Testing, Boundary Testing
 
-Response status code: Status 201 Created
+Response status code: Status 201 "Created"
 
 Below you can find a picture of the API request from Postman:
 
