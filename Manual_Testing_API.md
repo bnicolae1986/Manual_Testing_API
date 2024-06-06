@@ -10,7 +10,7 @@ Collection link: Inserati aici linkul catre colectia de API
 
 ## **Tests performed**
 
-### <GET /status>
+### GET /status
 
 - HTTP method for request: GET
 
