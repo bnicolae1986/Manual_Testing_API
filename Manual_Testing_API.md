@@ -10,7 +10,7 @@ Collection link: Inserati aici linkul catre colectia de API
 
 ## Tests performed
 
-### Status
+### 1. Status
 
 - HTTP method for request: GET
 
@@ -31,7 +31,7 @@ Below you can find a picture of the API request from Postman:
 ![teste get](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/ab56bd14-1d35-450e-9f9a-b65b5db72446)
 
  
-### List of books
+### 2. List of books
 
 HTTP method for request: GET
 Request description: Returns a list of books
