@@ -243,18 +243,14 @@ JavaScript Tests:
 
 Below you can find the execution report that was generated through the Postman collection runner.
 
-Inserati aici o poza cu raportul de executie din Postman
+![raport1](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/28941973-6af8-411c-9c11-770efb678711)
 
-The collection was also run through newman directly from the terminal, and the results can be found below:
-
-Inserati aici o poza cu raportul de executie din Newman
+![raport2](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/40e0d26d-4868-440a-8b5a-a00d835d4ee5)
 
 ## Defects found
 
-The following issues were identified while running the postman tests:
-
-**Inserati aici fie un fisier pdf care sa contina raportarea tuturor bug-urilor, fie le descrieti direct in git Bug-urile trebuie sa contina titlu, preconditii, pasi de executie, rezultate asteptate si rezultate actuale. Optional, bug-urile pot fi raportate in jira, si apoi puteti pune poze direct din jira
+There were no defects found
 
 ## Conclusions
 
-Inserati aici concluziile pe care le-ati obtinut in urma executarii testelor si introduceti informatii cum ar fi cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop au fost acoperite, daca exista vreo functionalitate pe care nu ai apucat sa o testezi, daca bug-urile gasite impacteaza lansarea produsului in productie sau se pot fixa si ulterior, daca ai identificat riscuri de produs care trebuie mitigate, daca e vreo reecomandare pe care vrei sa o faci pentru lansare, daca sunt ceva lessons learned de care trebuie sa se tina cont la proiectele viitoare etc
+The successful execution of these tests indicates that the API endpoints for retrieving, creating, updating, and deleting resources are functioning as expected, according to their specifications. The API behaves correctly in terms of CRUD (Create, Read, Update, Delete) operations, and maintains data integrity and consistency.
