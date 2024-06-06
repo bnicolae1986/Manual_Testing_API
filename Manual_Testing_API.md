@@ -10,15 +10,15 @@ Collection link: Inserati aici linkul catre colectia de API
 
 ## **Tests performed**
 
-- GET /status
+### GET /status
 
-HTTP method for request: GET
+- HTTP method for request: GET
 
-Request description: Returns the status of the API
+- Request description: Returns the status of the API
 
-Test types / techniques used: Functional Testing, Smoke Testing, Regression Testing
+- Test types / techniques used: Functional Testing, Smoke Testing, Regression Testing
 
-Response status code: Status 200 "OK"
+- Response status code: Status 200 "OK"
 
 Below you can find a picture of the API request from Postman:
 
@@ -26,7 +26,7 @@ Below you can find a picture of the API request from Postman:
 
  ![variables environment](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/7d2ef788-8bc2-4cd4-97a1-6a3069bbf62c)
 
-JavaScript Tests:
+- JavaScript Tests:
 
  Inserati aici o poza cu testele in java script pe care le-ati definit impreuna cu rezultatele executiei acestora
     **Nume Request 2**
