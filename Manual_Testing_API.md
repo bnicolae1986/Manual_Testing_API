@@ -70,7 +70,13 @@ Test types / techniques used: Functional Testing, Input Validation Testing, Usab
 Response status code: Status 200 "OK"
 
 Below you can find a picture of the API request from Postman:
- 
+
+![get booksparams](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/0bb39fc6-c4a5-4865-b700-06f20c6d171a)
+
+JavaScript Tests:
+
+![teste params](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/679b6b3e-1fdb-4f15-90c8-289fe3fba175)
+
 
 ## Execution report for the created API collection
 
