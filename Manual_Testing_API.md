@@ -54,7 +54,7 @@ JavaScript Tests:
 ![teste books2](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/2c23eb83-6e6a-456a-9b88-707c698d7eda)
 
 
-### List of books with parameters
+### 3. List of books with parameters
 
 HTTP method for request: GET
 
