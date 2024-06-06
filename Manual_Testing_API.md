@@ -135,6 +135,37 @@ JavaScript Tests:
 
 ![test orderbyid](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/1633eda5-86f8-46a7-8af9-13685fd37b7f)
 
+### 7. Submit an order 
+
+HTTP method for request: POST
+
+Request description: Allows you to submit a new order. Requires authentication.
+
+The request body needs to be in JSON format and include the following properties:
+
+    bookId - Integer - Required
+    customerName - String - Required
+
+The response body will contain the order Id.
+
+Test types / techniques used: Functional Testing, Boundary Testing, Integration Testing, Regression Testing, Performance Testing, Boundary Testing
+
+Response status code: Status 201 Created
+
+Below you can find a picture of the API request from Postman:
+
+![post orders](https://github.com/bnicolae1986/Manual_Testing_API/assets/156198321/a0d7ee4d-7330-4cdd-bb3d-6c11d72bef25)
+
+JavaScript Tests:
+
+
+
+
+
+
+
+
+
 
 
 ## Execution report for the created API collection
